@@ -61,3 +61,4 @@ Paragraphs on the page like .search-engine-optimization, .online-reputation-mana
     color: #d9dcd6;
 }
 
+Changed div for hero to an image class
