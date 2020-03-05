@@ -62,3 +62,9 @@ Paragraphs on the page like .search-engine-optimization, .online-reputation-mana
 }
 
 Changed div for hero to an image class
+
+Brought the images together with float left float right
+
+Brought h2 content together instead of calling out each class
+
+Removed id on the .search-engine-optimization, .online-reputation-management, .social-media-marketing classes. It was redundant
