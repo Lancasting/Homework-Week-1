@@ -22,7 +22,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+#headerdiv {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -30,11 +30,11 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+#unordered {
     list-style-type: none;
 }
 
-.header div ul li {
+.linklist {
     display: inline-block;
     margin-left: 25px;
 }
@@ -100,7 +100,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+#search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
