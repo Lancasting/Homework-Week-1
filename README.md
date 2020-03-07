@@ -53,7 +53,7 @@ Paragraphs on the page like .search-engine-optimization, .online-reputation-mana
 
     Brought P and content in CSS down to where it appears in the HTML
 
-    Removed span (because it wasn't mentioned in the CSS) in the html and brought header h1 together in CSS:
+    Called span out by name in the CSS file
 
     .header h1 {
     display: inline-block;
@@ -68,3 +68,5 @@ Brought the images together with float left float right
 Brought h2 content together instead of calling out each class
 
 Removed id on the .search-engine-optimization, .online-reputation-management, .social-media-marketing classes. It was redundant
+
+Added bold to the header to mimic what the website has. I think the reset css had changed some things that I needed to call out specifically.
