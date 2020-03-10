@@ -70,3 +70,5 @@ Brought h2 content together instead of calling out each class
 Removed id on the .search-engine-optimization, .online-reputation-management, .social-media-marketing classes. It was redundant
 
 Added bold to the header to mimic what the website has. I think the reset css had changed some things that I needed to call out specifically.
+
+Added '' to the font that wasn't properly tagged
